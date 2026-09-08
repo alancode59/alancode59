@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mí
 
-Backend Developer con 2+ años de experiencia práctica construyendo servicios backend con **Flask** y **FastAPI**, y procesando datos con **Pandas** en pipelines ETL hacia **MySQL** y **MongoDB**. También desarrollo sistemas web gubernamentales con **CodeIgniter 4** (PHP, patrón MVC). Uso **Docker** para contenerización y **GitHub Actions** para CI/CD. Cómodo llevando features de principio a fin, desde el diseño de base de datos hasta una interfaz funcional en HTML/JS/Tailwind.
+Backend Developer con 1+ año de experiencia práctica construyendo servicios backend con **Flask** y **FastAPI**, y procesando datos con **Pandas** en pipelines ETL hacia **MySQL** y **MongoDB**. También desarrollo sistemas web gubernamentales con **CodeIgniter 4** (PHP, patrón MVC). Uso **Docker** para contenerización y **GitHub Actions** para CI/CD. Cómodo llevando features de principio a fin, desde el diseño de base de datos hasta una interfaz funcional en HTML/JS/Tailwind.
 
 - 🏢 Backend Developer en **SEDIF Tlaxcala** desde agosto 2024.
 - 🎓 Ingeniería en Tecnologías de la Información — Universidad Politécnica de Tlaxcala (2020–2023).
@@ -71,7 +71,6 @@ Backend Developer con 2+ años de experiencia práctica construyendo servicios b
 
 <p align="center">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=alancode59&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alancode59&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
