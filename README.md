@@ -70,8 +70,8 @@ Backend Developer con 1+ año de experiencia práctica construyendo servicios ba
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alancode59&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancode59&layout=compact&theme=react&hide_border=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=alancode59&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alancode59&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
